@@ -31,6 +31,7 @@ npm run dev
 Create a new Strapi project in JavaScript
 ```bash
 npx create-strapi-app@latest backend --quickstart
+```
 
 Navigate to backend folder
 ```bash
