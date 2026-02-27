@@ -24,20 +24,28 @@ A portfolio website built with **Next.js** for the frontend and **Strapi** as th
 cd frontend
 npm install
 npm run dev
+```
 
-### **Backend (Strapi)**
+### Backend
 
 # Create a new Strapi project in JavaScript
+```bash
 npx create-strapi-app@latest backend --quickstart
 
 # Navigate to backend folder
+```bash
 cd backend
+```
 
 # Install dependencies (if not already)
+```bash
 npm install
+```
 
 # Run Strapi
+```bash
 npm run develop
+```
 
 ## Running the Project
 
