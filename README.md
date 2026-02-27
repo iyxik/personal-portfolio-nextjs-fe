@@ -28,21 +28,21 @@ npm run dev
 
 ### Backend
 
-# Create a new Strapi project in JavaScript
+Create a new Strapi project in JavaScript
 ```bash
 npx create-strapi-app@latest backend --quickstart
 
-# Navigate to backend folder
+Navigate to backend folder
 ```bash
 cd backend
 ```
 
-# Install dependencies (if not already)
+Install dependencies (if not already)
 ```bash
 npm install
 ```
 
-# Run Strapi
+Run Strapi
 ```bash
 npm run develop
 ```
